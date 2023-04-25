@@ -28,28 +28,45 @@ The objective is to perform EDA(Exploratory Data Analysis) on the Supermarket Sa
 
 ![Ques 8)](https://user-images.githubusercontent.com/125663649/234267156-6b3b493a-5861-48e9-a48f-b238dc2d046a.PNG)
 
+- Here we can see there is no relationship between cogs and ratings.
+
 ![ques 8](https://user-images.githubusercontent.com/125663649/234267220-4ccc9a2b-1561-48e1-86b3-443fb86478cb.PNG)
 
 ![Ques 9)](https://user-images.githubusercontent.com/125663649/234267269-9963a42c-4c52-45c7-82c5-0e863fe12c31.PNG)
 
 ![Ques 10)](https://user-images.githubusercontent.com/125663649/234267292-0cb3b0d5-c212-487c-9e3d-3f6d504ca451.PNG)
 
+- Keypoints from the graphical representation:
+  - Ewallet is mostly used in Yangon city 
+  - Cash is mostly used in Naypyitaw city.
+  - Credit Card is mostly used in Mandalay city
+ 
 ![ques-10](https://user-images.githubusercontent.com/125663649/234267324-c6fa5f0b-9831-476c-8649-95c4bbe148e3.PNG)
 
 ![Ques 11)](https://user-images.githubusercontent.com/125663649/234267375-c77e70db-92c6-420d-9d87-e9d23c2d65b8.PNG)
 
-![ques-11](https://user-images.githubusercontent.com/125663649/234267415-028daa79-f5f5-45e0-aa22-4f99ff03b75f.PNG)
+- Keypoint :
+ - Electronic Accessories product line quantity is more than other product line
+   followed by Food and Beverages.
+ - This mean sales of Electronic Accessories is higher than other products.
+ 
+![ques-11](https://user-images.githubusercontent.com/125663649/234269609-10e7eca3-28c4-4c0f-8811-3c2c76b22c95.PNG)
+
 
 ![Ques 12](https://user-images.githubusercontent.com/125663649/234267471-48b257e8-c84a-4d80-b7ae-a12225c5b45a.PNG)
 
 ![Ques 13)](https://user-images.githubusercontent.com/125663649/234267491-16305d6a-84fd-4b9d-8762-41bdb58d1409.PNG)
-
+ - Keypoint:
+   - Sales are more in January month as compared to February and March.
+   
 ![ques-13](https://user-images.githubusercontent.com/125663649/234267513-a3fe1c26-12dd-41cd-bee1-47882e35102f.PNG)
 
 ![Ques 14)](https://user-images.githubusercontent.com/125663649/234267534-ab75306a-e3ac-422a-a44f-64dd02676f68.PNG)
 
 ![Ques 15 )](https://user-images.githubusercontent.com/125663649/234267580-6ecdae6d-65d4-4258-8de7-7a9dfcc1635e.PNG)
-
+ - Keypoint:
+   - Average spending of Female is more than Male which means female spend more on shopping than men.
+   
 ![ques-15](https://user-images.githubusercontent.com/125663649/234267614-6d9181f5-35de-415f-979a-dcb17af20a0e.PNG)
 
 
